@@ -29,3 +29,16 @@ It can be found here: https://huggingface.co/CompVis/stable-diffusion-v1-4
 
 ![Screenshot from 2022-09-29 15-09-13](https://user-images.githubusercontent.com/50231750/193029495-ecd7faa4-ba1e-400a-b093-07966b3b6330.png)
 
+## Output from Colab Implementation
+
+### Code
+https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb
+
+
+![image](https://user-images.githubusercontent.com/50231750/193031326-69090e38-e696-4c70-b30a-897c4c628a09.png)
+
+**Query:** astronaut_rides_horse
+
+![image](https://user-images.githubusercontent.com/50231750/193031611-01184efb-610b-41a5-a905-6cb49166ba18.png)
+
+
