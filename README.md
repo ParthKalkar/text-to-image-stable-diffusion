@@ -24,5 +24,8 @@ It can be found here: https://huggingface.co/CompVis/stable-diffusion-v1-4
 
 ## Output
 
+![image](https://user-images.githubusercontent.com/50231750/193029908-a5fec491-ce36-4665-82f0-8b3a1c45c63e.png)
+
+
 ![Screenshot from 2022-09-29 15-09-13](https://user-images.githubusercontent.com/50231750/193029495-ecd7faa4-ba1e-400a-b093-07966b3b6330.png)
 
