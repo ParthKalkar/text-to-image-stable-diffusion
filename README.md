@@ -23,3 +23,6 @@ It can be found here: https://huggingface.co/CompVis/stable-diffusion-v1-4
 5. Enter the name of the image you want to search, wait and you are readt to go 
 
 ## Output
+
+![Screenshot from 2022-09-29 15-09-13](https://user-images.githubusercontent.com/50231750/193029495-ecd7faa4-ba1e-400a-b093-07966b3b6330.png)
+
